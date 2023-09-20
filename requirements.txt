@@ -10,4 +10,4 @@ xgboost
 lightgbm
 catboost
 notebook
-
+imgaug
